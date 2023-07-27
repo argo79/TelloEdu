@@ -1,4 +1,4 @@
-# Questo codice fa muovere Tello Edu alla ricerca di un PAD bersaglio
+ # Questo codice fa muovere Tello Edu alla ricerca di un PAD bersaglio
 
 from djitellopy import Tello
 import time
